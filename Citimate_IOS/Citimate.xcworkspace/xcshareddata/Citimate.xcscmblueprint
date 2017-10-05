@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "50196bf3-d67b-214f-bf42-680aa5f6299e",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "50196bf3-d67b-214f-bf42-680aa5f6299e" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "50196bf3-d67b-214f-bf42-680aa5f6299e" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "468B7713-B8F8-4AD1-8A3D-606206EE5587",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "50196bf3-d67b-214f-bf42-680aa5f6299e" : "Citimate_IOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Citimate",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Citimate.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/server.hitaishin.local:8043\/svn\/Citimate_IOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "50196bf3-d67b-214f-bf42-680aa5f6299e"
+    }
+  ]
+}

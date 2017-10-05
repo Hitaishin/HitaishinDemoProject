@@ -1,0 +1,6 @@
+framework module Pods_Citimate {
+  umbrella header "Pods-Citimate-umbrella.h"
+
+  export *
+  module * { export * }
+}
